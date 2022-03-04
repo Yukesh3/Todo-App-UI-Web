@@ -1,0 +1,29 @@
+
+.blur{
+    filter: blur(3px);
+}
+
+.new{
+    width: 427px;
+height: 208px;
+border: 3px solid red;
+border-radius: 20px;
+position: absolute;
+top: 256px;
+left: 581px;
+text-align: center;
+background-color: white;
+
+}
+
+.button{
+    border-radius: 14px;
+    background-color: red;
+}
+
+.leftshift{
+    text-decoration: none;
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+}
